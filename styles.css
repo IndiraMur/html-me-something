@@ -1,0 +1,37 @@
+p{
+    padding: 50px 50px;
+    margin: 25px 50px;
+}
+h1{
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size:50px;
+    color:red;
+}
+h2{
+    font-size:25px;
+    text-align:left;
+    color:orange;
+}
+h3{
+    font-size:40px;   
+    text-align:center;
+
+    color:green;
+}
+h4{
+    font-size:20;
+}
+
+.red {
+    color:red;
+}
+#rogue {
+    font-weight: bold;
+    color:purple;
+}
+.blue {
+    
+    color:red;
+}
+
